@@ -2,20 +2,15 @@
 
 ## 👨‍💻 About Me
 
-Hi there! 👋 <br> I'm a passionate software developer with a focus on building robust and scalable solutions. My tech journey has been an exciting ride through various tools and frameworks.
+Hi there! 👋 <br> I'm a Smart Contract Security Researcher.
 
 ## 🚀 Technologies
 
-- Java ☕️
-- Spring 🌱
-- Groovy 🌀
-- Docker 🐳
-- AWS ☁️
-- MySQL 🛢️
+- Solidity 📜
+- Foundry 🏭
+- Hardhat 🛠️
 
 ## 🌱 Current Focus
-
-Currently, I'm on a learning adventure! Exploring:
 
 - Solidity 📜
 - DeFi Concepts 💸
@@ -24,8 +19,13 @@ Currently, I'm on a learning adventure! Exploring:
 
 ## 🎯 Future Goals
 
-I aspire to become a Smart Contract Researcher, delving deep into the inner workings of the EVM. My goal is to provide valuable insight to the community while securing community funds with my knowledge and skills, contributing to making the web3 world a more secure place.
+My aim is to become a web3 security expert and do my best to make the space safer.
 
+<!-- ## 📊 GitHub Stats: -->
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xSecuri&theme=dark&hide_border=false)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSecuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <!--
 **0xSecuri/0xSecuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
